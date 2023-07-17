@@ -5,7 +5,7 @@ Caesar Cipher App made using PyQt5
 ## About 
 This application is a caesar cipher app made with PyQt5, this caeser cipher application was made as a experimental project to learn GUI programming with PyQt5. The gui consists of two windows you can encrypt and decrypt strings based on the number of shifts. 
 
-
+<img src="CaesarCipherApp.png" width="600"/>
 
 ## How to set up
 
